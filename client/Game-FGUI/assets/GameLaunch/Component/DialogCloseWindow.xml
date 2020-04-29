@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="696,384">
+  <displayList>
+    <component id="n8_e77b" name="closeButton" src="f84sj" fileName="Component~NCode/CloseButton.xml" xy="614,3">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <image id="n9_tnlh" name="n9" src="tnlhw3c" fileName="_images_new/弹窗底板.png" xy="0,0"/>
+    <image id="n10_tnlh" name="n10" src="tnlhw3h" fileName="_images_new/提示.png" xy="249,16"/>
+  </displayList>
+</component>

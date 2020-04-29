@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="184,53" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <controller name="IsGray" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n5_tnlh" name="n5" src="tnlhw3a" fileName="_images_new/按钮1.png" xy="0,0"/>
+    <text id="n4_j35s" name="title" xy="92,26" pivot="0.5,0.5" anchor="true" size="160,35" fontSize="30" color="#7f1508" align="center" vAlign="middle" autoSize="none" text="13a1d3">
+      <gearColor controller="IsGray" pages="1" values="#3a3a3a,#000000" default="#7f1508,#000000"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+  <Button/>
+</component>

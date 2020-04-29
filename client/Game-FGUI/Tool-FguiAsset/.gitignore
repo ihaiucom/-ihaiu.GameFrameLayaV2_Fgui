@@ -1,0 +1,6 @@
+.DS_Store
+*/.DS_Store
+FguiAsset/obj*
+FguiAsset/Library
+FguiAsset/Temp
+FguiAsset/.vs

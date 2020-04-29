@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1400,600" initName="serverHostPage">
+  <displayList>
+    <graph id="n14_ket7" name="n14" xy="0,0" size="1400,600" hideByEditor="true" type="rect" lineSize="0" fillColor="#ff4d4d4d">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <component id="n15_ket7" name="ipIput" src="ket7m" fileName="TextArea.xml" xy="162,67" size="565,50">
+      <Button title="jjsgh5-ali-check.123u.com"/>
+    </component>
+    <component id="n16_ket7" name="addButton" src="c3i0h" fileName="ButtonRect.xml" xy="171,325" size="386,82">
+      <Button title="添加"/>
+    </component>
+    <text id="n19_i8be" name="n19" xy="113,75" size="27,26" fontSize="22" color="#ffffff" text="IP"/>
+    <component id="n20_i8be" name="portInput" src="ket7m" fileName="TextArea.xml" xy="163,155" size="565,50">
+      <Button title="5000"/>
+    </component>
+    <text id="n21_i8be" name="n21" xy="91,164" size="49,26" fontSize="22" color="#ffffff" text="port"/>
+    <component id="n23_i8be" name="isHttpCheckbox" src="nb4ea" fileName="Checkbox.xml" xy="160,230">
+      <Button checked="true" title="https"/>
+    </component>
+  </displayList>
+</component>

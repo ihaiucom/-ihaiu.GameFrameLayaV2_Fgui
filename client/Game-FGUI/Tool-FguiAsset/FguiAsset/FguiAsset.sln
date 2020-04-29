@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FguiAsset.Plugins", "FguiAsset.Plugins.csproj", "{346FE86B-0D9B-A587-4580-CB7A617041AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FguiAsset", "FguiAsset.csproj", "{5AE11896-8754-83EE-8E15-764C5B4FB834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FguiAsset.Editor", "FguiAsset.Editor.csproj", "{953A4947-95AF-8FEF-A26A-8A3E22319847}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{346FE86B-0D9B-A587-4580-CB7A617041AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{346FE86B-0D9B-A587-4580-CB7A617041AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{346FE86B-0D9B-A587-4580-CB7A617041AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{346FE86B-0D9B-A587-4580-CB7A617041AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AE11896-8754-83EE-8E15-764C5B4FB834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE11896-8754-83EE-8E15-764C5B4FB834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE11896-8754-83EE-8E15-764C5B4FB834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE11896-8754-83EE-8E15-764C5B4FB834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{953A4947-95AF-8FEF-A26A-8A3E22319847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953A4947-95AF-8FEF-A26A-8A3E22319847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953A4947-95AF-8FEF-A26A-8A3E22319847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953A4947-95AF-8FEF-A26A-8A3E22319847}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

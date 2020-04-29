@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="323,555" designImage="ui://qjz790ecsqd337" designImageOffsetX="-358" designImageOffsetY="-125" designImageAlpha="0">
+  <displayList>
+    <image id="n9_tils" name="n9" src="tilsw3o" fileName="_images_new/空位栏.png" xy="0,0" size="323,555"/>
+    <loader id="n4_sqd3" name="imgHero" xy="0,0" pivot="0.5,0.5" size="323,555" touchable="false" url="ui://47qsdr42sqd3w3n" fill="scaleMatchWidth">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <component id="n5_sqd3" name="playerIcon" src="t43kz5m" fileName="Component/CommonPlayerIcon.xml" pkg="4snov4n9" xy="11,435"/>
+    <text id="n2_kpvw" name="labName" xy="116,474" pivot="0,1" anchor="true" size="187,29" fontSize="25" color="#f4b756" text="街机三国七个字"/>
+    <text id="n6_sqd3" name="labLevel" xy="114,509" pivot="0,1" anchor="true" size="57,29" fontSize="25" color="#be6043" text="73级"/>
+    <text id="n7_sqd3" name="labProgess" xy="210,509" pivot="0,1" anchor="true" size="44,29" fontSize="25" color="#d0c0a7" text="80%"/>
+    <component id="n8_sqd3" name="btnTalent" src="cv08z5i" fileName="Component/ComCommonSkill.xml" pkg="4snov4n9" xy="19,18" scale="0.7,0.7"/>
+  </displayList>
+</component>

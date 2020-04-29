@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <component id="n0_f84s" name="dialog" src="f84sg" fileName="Component/DialogCloseWindow.xml" xy="319,183" pivot="0.5,0.5" group="n4_7xx4"/>
+    <text id="n1_f84s" name="content" xy="666,377" pivot="0.5,0.5" anchor="true" size="597,160" group="n4_7xx4" fontSize="26" color="#ffffff" vAlign="middle" ubb="true" autoSize="none" text="Excellent"/>
+    <text id="n2_f84s" name="title" xy="402,205" pivot="0.5,0.5" size="500,50" group="n4_7xx4" hideByEditor="true" visible="false" font="HYZhengYuan-95W" fontSize="36" color="#114d74" align="center" vAlign="middle" autoSize="none" singleLine="true" text="Hint"/>
+    <component id="n3_f84s" name="okBtn" src="tnlhw3i" fileName="Component~NCode/CommonButton1.xml" xy="575,476" group="n4_7xx4" controller="IsGray,0">
+      <Button title="确定"/>
+    </component>
+    <group id="n4_7xx4" name="n4" xy="319,183" size="696,384" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

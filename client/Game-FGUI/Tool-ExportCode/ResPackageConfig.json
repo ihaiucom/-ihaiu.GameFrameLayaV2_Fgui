@@ -1,0 +1,12 @@
+{
+  "autoEnd": true,
+  "optionSetting": "./ResPackageConfig.json",
+  "resPath": "../../Game/bin/res/fgui",
+  "packageFileExtension": ".bin",
+  "templateDir": "./GenerateFguiResPackageConfig/Template",
+  "codePath": "../../Game/src/FGUI/",
+  "codeClass": "GuiResPackageConfigReader",
+  "soundExts": [ ".ogg", ".mp3", ".wav"],
+  "atlasSeparator": "_atlas",
+  "soundSeparator" : "_"
+}

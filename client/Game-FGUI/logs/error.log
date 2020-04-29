@@ -1,0 +1,14 @@
+====Thu Mar 26 15:02:42 GMT+0800 2020====
+Error in (EUIPackage.open): (#1090)XML parser failure: element is malformed
+TypeError: Error #1090
+	at fairygui.editor.utils::XData$/parse()
+	at fairygui.editor.utils::UtilsFile$/loadXData()
+	at fairygui.editor.gui::EUIPackage/open()
+	at fairygui.editor.gui::EUIPackage/ensureOpen()
+	at fairygui.editor.gui::EUIPackage/getItem()
+	at fairygui.editor::EditPanel/restoreState()
+	at fairygui.editor::MainPanel/__plugInLoaded()
+	at fairygui.editor.utils::BulkTasks/run()
+	at fairygui.utils::GTimers/__timer()
+	at flash.utils::Timer/tick()
+

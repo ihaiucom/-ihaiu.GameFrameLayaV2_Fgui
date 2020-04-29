@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1236,28" extention="ProgressBar">
+  <displayList>
+    <image id="n5_tnlh" name="n5" src="tnlhw34" fileName="_images_new/进度条1.png" xy="0,0"/>
+    <image id="n6_tnlh" name="bar" src="tnlhw35" fileName="_images_new/进度条2.png" xy="0,0" fillMethod="hz"/>
+    <text id="n2_kpvw" name="title" xy="0,-18" size="1236,37" hideByEditor="true" visible="false" fontSize="12" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+  <ProgressBar/>
+</component>

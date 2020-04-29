@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <displayList>
+    <image id="n14_tnlh" name="n14" src="tnlhw31" fileName="_images_new/白色拉伸.png" xy="-78,-70" size="1491,890">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n15_tnlh" name="n15" src="tnlhw32" fileName="_images_new/欢乐互娱logo.png" xy="335,281">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+  </displayList>
+</component>

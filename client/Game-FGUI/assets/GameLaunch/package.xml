@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="47qsdr42" jpegQuality="80" compressPNG="true" hasFavorites="true">
+  <resources>
+    <component id="f84s0" name="EnterModuleLoader.xml" path="/" exported="true"/>
+    <component id="f84s1" name="ScreenBG.xml" path="/" exported="true"/>
+    <image id="f84sa" name="progress_circle.png" path="/_images_new/" exported="true"/>
+    <component id="f84sg" name="DialogCloseWindow.xml" path="/Component/" exported="true"/>
+    <component id="f84sj" name="CloseButton.xml" path="/Component~NCode/" favorite="true"/>
+    <component id="f84sn" name="PurpleButton.xml" path="/Component~NCode/" exported="true" favorite="true"/>
+    <component id="nk8t1" name="SystemAlertMessage.xml" path="/" exported="true"/>
+    <component id="nk8t2" name="SystemConfirmMessage.xml" path="/" exported="true"/>
+    <component id="nk8t3" name="SystemToastMessage.xml" path="/" exported="true"/>
+    <image id="f84s9" name="btn_gm.png" path="/_images_new/" exported="true"/>
+    <component id="uohx13" name="GMButton.xml" path="/" exported="true"/>
+    <component id="kpvww2b" name="EnterWarLoader.xml" path="/" exported="true"/>
+    <component id="kpvww2e" name="WarLoadingProgressBar.xml" path="/Component~NCode/"/>
+    <component id="kpvww2f" name="EnterWarItem.xml" path="/Component/" exported="true"/>
+    <component id="ae8aw2h" name="BGModel.xml" path="/" exported="true"/>
+    <component id="x6asw2i" name="GlobalModalWaiting.xml" path="/" exported="true"/>
+    <component id="x6asw2j" name="WindowModalWaiting.xml" path="/" exported="true"/>
+    <image id="9wtpw2k" name="进度条01.png" path="/_images_new/" exported="true" atlas="alone_npot"/>
+    <image id="9wtpw2l" name="进度条02.png" path="/_images_new/" exported="true"/>
+    <component id="mrzrw2m" name="LoginLoadingProgressBar.xml" path="/Component~NCode/"/>
+    <component id="mrzrw2n" name="ModuleLoadingProgressBar.xml" path="/Component~NCode/"/>
+    <component id="mrzrw2o" name="EnterLoginLoader.xml" path="/" exported="true"/>
+    <image id="qyvzw2s" name="粉色tips.png" path="/_images_new/" exported="true" atlas="alone_npot"/>
+    <component id="tnlhw2t" name="LogoView.xml" path="/Component~NCode/"/>
+    <image id="tnlhw30" name="logo.png" path="/_images_new/" exported="true" atlas="alone_npot"/>
+    <image id="tnlhw31" name="白色拉伸.png" path="/_images_new/" exported="true"/>
+    <image id="tnlhw32" name="欢乐互娱logo.png" path="/_images_new/" exported="true" atlas="alone_npot"/>
+    <image id="tnlhw34" name="进度条1.png" path="/_images_new/" exported="true" atlas="alone_npot"/>
+    <image id="tnlhw35" name="进度条2.png" path="/_images_new/" exported="true" atlas="alone_npot"/>
+    <image id="tnlhw3a" name="按钮1.png" path="/_images_new/" exported="true"/>
+    <image id="tnlhw3b" name="出售文本框.png" path="/_images_new/" exported="true" scale="9grid" scale9grid="4,12,2,23"/>
+    <image id="tnlhw3c" name="弹窗底板.png" path="/_images_new/" exported="true" atlas="alone_npot"/>
+    <image id="tnlhw3e" name="关闭.png" path="/_images_new/" exported="true"/>
+    <image id="tnlhw3h" name="提示.png" path="/_images_new/" exported="true"/>
+    <component id="tnlhw3i" name="CommonButton1.xml" path="/Component~NCode/"/>
+    <image id="tnlhw3l" name="bg_rectangle_gray.png" path="/_images_new/" exported="true"/>
+    <image id="tnlhw3m" name="背景1.png" path="/_images_new/" exported="true" atlas="alone_npot"/>
+    <image id="hvenz62" name="8.png" path="/_font_images/" exported="true"/>
+    <image id="hvenz63" name="9.png" path="/_font_images/" exported="true"/>
+    <image id="hvenz64" name="%.png" path="/_font_images/" exported="true"/>
+    <image id="hvenz65" name="0.png" path="/_font_images/" exported="true"/>
+    <image id="hvenz66" name="1.png" path="/_font_images/" exported="true"/>
+    <image id="hvenz67" name="2.png" path="/_font_images/" exported="true"/>
+    <image id="hvenz68" name="3.png" path="/_font_images/" exported="true"/>
+    <image id="hvenz69" name="4.png" path="/_font_images/" exported="true"/>
+    <image id="hvenz6a" name="5.png" path="/_font_images/" exported="true"/>
+    <image id="hvenz6b" name="6.png" path="/_font_images/" exported="true"/>
+    <image id="hvenz6c" name="7.png" path="/_font_images/" exported="true"/>
+    <font id="hvenz61" name="BaseFont.fnt" path="/_fonts/" exported="true"/>
+    <image id="tilsw3o" name="空位栏.png" path="/_images_new/" exported="true" atlas="alone_npot"/>
+  </resources>
+  <publish name="GameLaunch" genCode="true" npot="true"/>
+</packageDescription>

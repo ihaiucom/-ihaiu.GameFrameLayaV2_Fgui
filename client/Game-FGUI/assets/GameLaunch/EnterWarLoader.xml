@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <controller name="View" pages="0,PVP,1,PVE,3,PVE_M4,2,P2VP2" selected="0"/>
+  <displayList>
+    <component id="n14_tils" name="n14" src="tilsz5w" fileName="Component/CommomBg.xml" pkg="4snov4n9" xy="0,0">
+      <gearDisplay controller="View" pages="1,3,2"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n13_tpmv" name="screenBG" src="f84s1" fileName="ScreenBG.xml" xy="667,375" pivot="0.5,0.5" anchor="true" size="1334,750" alpha="0.3">
+      <gearDisplay controller="View" pages="1,3,2"/>
+      <gearIcon controller="View" pages="3" values="ui://47qsdr42tnlhw3l" default=""/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <list id="n8_kpvw" name="listTeam" xy="667,374" pivot="0.5,0.5" anchor="true" size="1838,629" layout="row" defaultItem="ui://47qsdr42kpvww2f" autoItemSize="false" align="center" vAlign="middle">
+      <gearDisplay controller="View" pages="1,3,2"/>
+      <gearXY controller="View" pages="0,1,3" values="667,374|666,375|667,374" default="666,228"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n9_kpvw" name="listEnemy" xy="1034,560" pivot="0.5,0.5" anchor="true" size="600,200" layout="row" defaultItem="ui://47qsdr42kpvww2f" autoItemSize="false" align="center" vAlign="middle">
+      <gearDisplay controller="View" pages="2"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <item/>
+    </list>
+    <text id="n14_hven" name="pvpProgress1" xy="52,692" size="96,32" font="ui://47qsdr42hvenz61" fontSize="12" color="#ffffff" align="center" vAlign="middle" autoClearText="true" text="100%">
+      <gearDisplay controller="View" pages="0"/>
+      <relation target="" sidePair="bottom-bottom,left-left"/>
+    </text>
+    <text id="n15_hven" name="pvpProgress2" xy="1185,692" size="96,32" font="ui://47qsdr42hvenz61" fontSize="12" color="#ffffff" align="center" vAlign="middle" autoClearText="true" text="100%">
+      <gearDisplay controller="View" pages="0"/>
+      <relation target="" sidePair="bottom-bottom,left-left"/>
+    </text>
+  </displayList>
+</component>

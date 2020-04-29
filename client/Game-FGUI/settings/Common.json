@@ -1,0 +1,15 @@
+{
+	"buttonClickSound":"",
+	"colorScheme":["说白不是白 #d0c0a7","有点像金色 #f4b756","应该是绿色 #92ec51","可能是红色 #ff3442","暗红 #7F1508","黄色 #ffe793","亮黄色 #fffa7d","暗紫 #41262f","墨蓝 #243244","这是橙色吗 #be6043"],
+	"font":"simhei",
+	"fontScheme":["默认字体"],
+	"fontSize":22,
+	"fontSizeScheme":["自定义字体大小 30","自定义字体大小 25","自定义字体大小 24","自定义字体大小 22","自定义字体大小 26"],
+	"scrollBars":{
+		"defaultDisplay":"visible",
+		"horizontal":"",
+		"vertical":""
+	},
+	"textColor":"#ffffff",
+	"tipsRes":""
+}
